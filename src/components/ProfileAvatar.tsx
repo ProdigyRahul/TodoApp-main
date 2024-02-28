@@ -310,7 +310,7 @@ export const ProfileAvatar = () => {
                 label="prodigyRahul"
                 sx={{ fontWeight: "bold", opacity: "1 !important" }}
               /> */}
-              Rahul Mistry
+              Hasti Babaria
             </a>
 
             <br />
