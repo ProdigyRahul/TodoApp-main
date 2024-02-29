@@ -40,7 +40,7 @@ const Home = () => {
 
   useEffect(() => {
     setRandomGreeting(getRandomGreeting());
-    document.title = "Todo App";
+    document.title = "DoNow";
 
     const interval = setInterval(() => {
       setRandomGreeting(getRandomGreeting());

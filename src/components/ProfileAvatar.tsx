@@ -146,7 +146,7 @@ export const ProfileAvatar = () => {
         >
           <Logo src={logo} alt="logo" />
           <h2>
-            <span style={{ color: "#7764E8" }}>Todo</span> App
+            <span style={{ color: "#7764E8" }}>DoNow</span>
             <span style={{ color: "#7764E8" }}>.</span>
           </h2>
         </LogoContainer>

@@ -28,7 +28,7 @@ const TaskDetails = () => {
   }
 
   useEffect(() => {
-    document.title = `Todo App - ${task.name}`;
+    document.title = `DoNow - ${task.name}`;
   }, []);
 
   return (

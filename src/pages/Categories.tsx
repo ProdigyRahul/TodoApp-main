@@ -45,7 +45,7 @@ const Categories = () => {
   const n = useNavigate();
 
   useEffect(() => {
-    document.title = "Todo App - Categories";
+    document.title = "DoNow";
     if (!user.settings[0].enableCategories) {
       n("/");
     }

@@ -45,7 +45,7 @@ const UserSettings = () => {
   const systemTheme = useSystemTheme();
 
   useEffect(() => {
-    document.title = `Todo App - User ${name ? `(${name})` : ""}`;
+    document.title = `DoNow - User ${name ? `(${name})` : ""}`;
   }, [name]);
 
   const handleSaveName = () => {
